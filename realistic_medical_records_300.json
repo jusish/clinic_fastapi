@@ -1,0 +1,2104 @@
+{
+    "records": [
+        {
+            "patient_id": 283,
+            "doctor_id": 5,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 37,
+            "doctor_id": 5,
+            "diagnosis": "Depression",
+            "treatment": "Statins, dietary modifications",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 135,
+            "doctor_id": 6,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 135,
+            "doctor_id": 2,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 244,
+            "doctor_id": 4,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Statins, dietary modifications",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 128,
+            "doctor_id": 1,
+            "diagnosis": "Migraine",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 213,
+            "doctor_id": 3,
+            "diagnosis": "Asthma",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 300,
+            "doctor_id": 3,
+            "diagnosis": "Depression",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 128,
+            "doctor_id": 2,
+            "diagnosis": "Depression",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 202,
+            "doctor_id": 5,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 120,
+            "doctor_id": 5,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 201,
+            "doctor_id": 3,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 196,
+            "doctor_id": 3,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Statins, dietary modifications",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 139,
+            "doctor_id": 6,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Statins, dietary modifications",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 217,
+            "doctor_id": 5,
+            "diagnosis": "Psoriasis",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 211,
+            "doctor_id": 5,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 170,
+            "doctor_id": 6,
+            "diagnosis": "Epilepsy",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 15,
+            "doctor_id": 5,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 174,
+            "doctor_id": 2,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 153,
+            "doctor_id": 3,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 296,
+            "doctor_id": 1,
+            "diagnosis": "Depression",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 33,
+            "doctor_id": 1,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 22,
+            "doctor_id": 5,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Statins, dietary modifications",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 183,
+            "doctor_id": 5,
+            "diagnosis": "Depression",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 81,
+            "doctor_id": 6,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 159,
+            "doctor_id": 5,
+            "diagnosis": "Depression",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 280,
+            "doctor_id": 2,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 7,
+            "doctor_id": 2,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 95,
+            "doctor_id": 4,
+            "diagnosis": "Depression",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 1,
+            "doctor_id": 5,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 30,
+            "doctor_id": 1,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 4,
+            "doctor_id": 3,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 264,
+            "doctor_id": 4,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 286,
+            "doctor_id": 6,
+            "diagnosis": "Arthritis",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 109,
+            "doctor_id": 5,
+            "diagnosis": "Psoriasis",
+            "treatment": "Statins, dietary modifications",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 288,
+            "doctor_id": 5,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 237,
+            "doctor_id": 1,
+            "diagnosis": "Arthritis",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 198,
+            "doctor_id": 5,
+            "diagnosis": "Arthritis",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 146,
+            "doctor_id": 6,
+            "diagnosis": "Migraine",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 21,
+            "doctor_id": 6,
+            "diagnosis": "Hypertension",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 20,
+            "doctor_id": 1,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 181,
+            "doctor_id": 1,
+            "diagnosis": "Epilepsy",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 178,
+            "doctor_id": 2,
+            "diagnosis": "Asthma",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 221,
+            "doctor_id": 1,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 36,
+            "doctor_id": 3,
+            "diagnosis": "Epilepsy",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 5,
+            "doctor_id": 3,
+            "diagnosis": "Arthritis",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 95,
+            "doctor_id": 6,
+            "diagnosis": "Psoriasis",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 134,
+            "doctor_id": 4,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 299,
+            "doctor_id": 2,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 123,
+            "doctor_id": 1,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 173,
+            "doctor_id": 2,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 74,
+            "doctor_id": 3,
+            "diagnosis": "Hypertension",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 219,
+            "doctor_id": 1,
+            "diagnosis": "Hypertension",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 226,
+            "doctor_id": 3,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 172,
+            "doctor_id": 6,
+            "diagnosis": "Psoriasis",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 113,
+            "doctor_id": 5,
+            "diagnosis": "Migraine",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 103,
+            "doctor_id": 3,
+            "diagnosis": "Depression",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 19,
+            "doctor_id": 2,
+            "diagnosis": "Asthma",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 161,
+            "doctor_id": 4,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 80,
+            "doctor_id": 2,
+            "diagnosis": "Psoriasis",
+            "treatment": "Statins, dietary modifications",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 286,
+            "doctor_id": 5,
+            "diagnosis": "Hypertension",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 231,
+            "doctor_id": 1,
+            "diagnosis": "Hypertension",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 256,
+            "doctor_id": 2,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 272,
+            "doctor_id": 6,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 233,
+            "doctor_id": 4,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 104,
+            "doctor_id": 5,
+            "diagnosis": "Psoriasis",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 160,
+            "doctor_id": 1,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 40,
+            "doctor_id": 4,
+            "diagnosis": "Arthritis",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 283,
+            "doctor_id": 6,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 38,
+            "doctor_id": 6,
+            "diagnosis": "Epilepsy",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 120,
+            "doctor_id": 5,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 98,
+            "doctor_id": 6,
+            "diagnosis": "Epilepsy",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 170,
+            "doctor_id": 2,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 52,
+            "doctor_id": 3,
+            "diagnosis": "Depression",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 183,
+            "doctor_id": 3,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 293,
+            "doctor_id": 2,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 48,
+            "doctor_id": 3,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 139,
+            "doctor_id": 2,
+            "diagnosis": "Depression",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 213,
+            "doctor_id": 6,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 37,
+            "doctor_id": 2,
+            "diagnosis": "Migraine",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 114,
+            "doctor_id": 3,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 163,
+            "doctor_id": 6,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 18,
+            "doctor_id": 6,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 223,
+            "doctor_id": 1,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 108,
+            "doctor_id": 4,
+            "diagnosis": "Depression",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 118,
+            "doctor_id": 1,
+            "diagnosis": "Asthma",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 52,
+            "doctor_id": 5,
+            "diagnosis": "Epilepsy",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 14,
+            "doctor_id": 5,
+            "diagnosis": "Asthma",
+            "treatment": "Statins, dietary modifications",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 149,
+            "doctor_id": 1,
+            "diagnosis": "Arthritis",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 261,
+            "doctor_id": 5,
+            "diagnosis": "Depression",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 133,
+            "doctor_id": 3,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 182,
+            "doctor_id": 2,
+            "diagnosis": "Asthma",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 196,
+            "doctor_id": 4,
+            "diagnosis": "Asthma",
+            "treatment": "Statins, dietary modifications",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 205,
+            "doctor_id": 5,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 251,
+            "doctor_id": 5,
+            "diagnosis": "Depression",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 280,
+            "doctor_id": 6,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 282,
+            "doctor_id": 1,
+            "diagnosis": "Psoriasis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 285,
+            "doctor_id": 4,
+            "diagnosis": "Hypertension",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 111,
+            "doctor_id": 2,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 238,
+            "doctor_id": 3,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 52,
+            "doctor_id": 6,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 258,
+            "doctor_id": 3,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 71,
+            "doctor_id": 1,
+            "diagnosis": "Hypertension",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 298,
+            "doctor_id": 2,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 82,
+            "doctor_id": 3,
+            "diagnosis": "Hypertension",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 204,
+            "doctor_id": 5,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 154,
+            "doctor_id": 3,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 4,
+            "doctor_id": 3,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 217,
+            "doctor_id": 6,
+            "diagnosis": "Depression",
+            "treatment": "Statins, dietary modifications",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 139,
+            "doctor_id": 6,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 156,
+            "doctor_id": 2,
+            "diagnosis": "Epilepsy",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 146,
+            "doctor_id": 2,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Statins, dietary modifications",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 258,
+            "doctor_id": 3,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Statins, dietary modifications",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 98,
+            "doctor_id": 1,
+            "diagnosis": "Arthritis",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 172,
+            "doctor_id": 6,
+            "diagnosis": "Epilepsy",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 67,
+            "doctor_id": 1,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 64,
+            "doctor_id": 4,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 94,
+            "doctor_id": 4,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 98,
+            "doctor_id": 1,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 154,
+            "doctor_id": 3,
+            "diagnosis": "Arthritis",
+            "treatment": "Statins, dietary modifications",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 300,
+            "doctor_id": 1,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 37,
+            "doctor_id": 4,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 26,
+            "doctor_id": 1,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 183,
+            "doctor_id": 6,
+            "diagnosis": "Psoriasis",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 107,
+            "doctor_id": 6,
+            "diagnosis": "Migraine",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 96,
+            "doctor_id": 5,
+            "diagnosis": "Migraine",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 112,
+            "doctor_id": 5,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 257,
+            "doctor_id": 6,
+            "diagnosis": "Migraine",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 264,
+            "doctor_id": 5,
+            "diagnosis": "Migraine",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 53,
+            "doctor_id": 3,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 85,
+            "doctor_id": 5,
+            "diagnosis": "Psoriasis",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 41,
+            "doctor_id": 6,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 65,
+            "doctor_id": 1,
+            "diagnosis": "Arthritis",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 158,
+            "doctor_id": 3,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 205,
+            "doctor_id": 4,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 293,
+            "doctor_id": 6,
+            "diagnosis": "Migraine",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 299,
+            "doctor_id": 1,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 165,
+            "doctor_id": 3,
+            "diagnosis": "Psoriasis",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 149,
+            "doctor_id": 6,
+            "diagnosis": "Asthma",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 259,
+            "doctor_id": 3,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 41,
+            "doctor_id": 1,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 185,
+            "doctor_id": 5,
+            "diagnosis": "Psoriasis",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 197,
+            "doctor_id": 6,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 262,
+            "doctor_id": 1,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 233,
+            "doctor_id": 5,
+            "diagnosis": "Migraine",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 187,
+            "doctor_id": 6,
+            "diagnosis": "Epilepsy",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 134,
+            "doctor_id": 1,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 147,
+            "doctor_id": 3,
+            "diagnosis": "Psoriasis",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 227,
+            "doctor_id": 5,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 97,
+            "doctor_id": 5,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 236,
+            "doctor_id": 2,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 200,
+            "doctor_id": 2,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 297,
+            "doctor_id": 4,
+            "diagnosis": "Hypertension",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 210,
+            "doctor_id": 1,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 67,
+            "doctor_id": 4,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 102,
+            "doctor_id": 3,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 276,
+            "doctor_id": 6,
+            "diagnosis": "Hypertension",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 254,
+            "doctor_id": 1,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 112,
+            "doctor_id": 1,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 157,
+            "doctor_id": 1,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 202,
+            "doctor_id": 3,
+            "diagnosis": "Depression",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 158,
+            "doctor_id": 5,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Statins, dietary modifications",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 251,
+            "doctor_id": 4,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 81,
+            "doctor_id": 1,
+            "diagnosis": "Psoriasis",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 35,
+            "doctor_id": 2,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 225,
+            "doctor_id": 4,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 162,
+            "doctor_id": 6,
+            "diagnosis": "Hypertension",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 38,
+            "doctor_id": 4,
+            "diagnosis": "Psoriasis",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 12,
+            "doctor_id": 1,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 161,
+            "doctor_id": 2,
+            "diagnosis": "Epilepsy",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 138,
+            "doctor_id": 4,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 20,
+            "doctor_id": 3,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 50,
+            "doctor_id": 3,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 153,
+            "doctor_id": 1,
+            "diagnosis": "Epilepsy",
+            "treatment": "Statins, dietary modifications",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 239,
+            "doctor_id": 2,
+            "diagnosis": "Migraine",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 35,
+            "doctor_id": 6,
+            "diagnosis": "Arthritis",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 181,
+            "doctor_id": 3,
+            "diagnosis": "Epilepsy",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 156,
+            "doctor_id": 4,
+            "diagnosis": "Asthma",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 289,
+            "doctor_id": 6,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 31,
+            "doctor_id": 6,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 249,
+            "doctor_id": 6,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 225,
+            "doctor_id": 2,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 203,
+            "doctor_id": 6,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 114,
+            "doctor_id": 5,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 1,
+            "doctor_id": 5,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 174,
+            "doctor_id": 4,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 214,
+            "doctor_id": 2,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 136,
+            "doctor_id": 3,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 183,
+            "doctor_id": 1,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 248,
+            "doctor_id": 6,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 5,
+            "doctor_id": 4,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 163,
+            "doctor_id": 3,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 260,
+            "doctor_id": 1,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 286,
+            "doctor_id": 1,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 300,
+            "doctor_id": 4,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 164,
+            "doctor_id": 1,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 33,
+            "doctor_id": 5,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 277,
+            "doctor_id": 3,
+            "diagnosis": "Epilepsy",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 122,
+            "doctor_id": 4,
+            "diagnosis": "Hypertension",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 66,
+            "doctor_id": 5,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 146,
+            "doctor_id": 3,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 177,
+            "doctor_id": 2,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 114,
+            "doctor_id": 1,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 115,
+            "doctor_id": 3,
+            "diagnosis": "Psoriasis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 88,
+            "doctor_id": 2,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 220,
+            "doctor_id": 1,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 240,
+            "doctor_id": 2,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 74,
+            "doctor_id": 4,
+            "diagnosis": "Epilepsy",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 32,
+            "doctor_id": 3,
+            "diagnosis": "Arthritis",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 137,
+            "doctor_id": 1,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 293,
+            "doctor_id": 1,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 131,
+            "doctor_id": 5,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 214,
+            "doctor_id": 5,
+            "diagnosis": "Depression",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 91,
+            "doctor_id": 1,
+            "diagnosis": "Asthma",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 105,
+            "doctor_id": 6,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 129,
+            "doctor_id": 2,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 187,
+            "doctor_id": 2,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 251,
+            "doctor_id": 2,
+            "diagnosis": "Depression",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 35,
+            "doctor_id": 6,
+            "diagnosis": "Psoriasis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 112,
+            "doctor_id": 2,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 44,
+            "doctor_id": 2,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 215,
+            "doctor_id": 3,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 191,
+            "doctor_id": 6,
+            "diagnosis": "Depression",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 146,
+            "doctor_id": 1,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 259,
+            "doctor_id": 2,
+            "diagnosis": "Psoriasis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 28,
+            "doctor_id": 4,
+            "diagnosis": "Arthritis",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 234,
+            "doctor_id": 6,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 147,
+            "doctor_id": 3,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 98,
+            "doctor_id": 2,
+            "diagnosis": "Asthma",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 78,
+            "doctor_id": 2,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 66,
+            "doctor_id": 6,
+            "diagnosis": "Migraine",
+            "treatment": "Statins, dietary modifications",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 172,
+            "doctor_id": 6,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 91,
+            "doctor_id": 5,
+            "diagnosis": "Hypertension",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 265,
+            "doctor_id": 2,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 277,
+            "doctor_id": 6,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 77,
+            "doctor_id": 5,
+            "diagnosis": "Hypertension",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 147,
+            "doctor_id": 1,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 120,
+            "doctor_id": 6,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 23,
+            "doctor_id": 3,
+            "diagnosis": "Hypertension",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 286,
+            "doctor_id": 5,
+            "diagnosis": "Arthritis",
+            "treatment": "Statins, dietary modifications",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 88,
+            "doctor_id": 3,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 65,
+            "doctor_id": 1,
+            "diagnosis": "Hypertension",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 79,
+            "doctor_id": 2,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 178,
+            "doctor_id": 1,
+            "diagnosis": "Depression",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 77,
+            "doctor_id": 3,
+            "diagnosis": "Arthritis",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 38,
+            "doctor_id": 5,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 65,
+            "doctor_id": 2,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 207,
+            "doctor_id": 5,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 211,
+            "doctor_id": 5,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 131,
+            "doctor_id": 2,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 182,
+            "doctor_id": 3,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 258,
+            "doctor_id": 4,
+            "diagnosis": "Epilepsy",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 12,
+            "doctor_id": 1,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 60,
+            "doctor_id": 5,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 179,
+            "doctor_id": 2,
+            "diagnosis": "Hyperlipidemia",
+            "treatment": "Statins, dietary modifications",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 276,
+            "doctor_id": 5,
+            "diagnosis": "Depression",
+            "treatment": "Statins, dietary modifications",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 62,
+            "doctor_id": 6,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 132,
+            "doctor_id": 5,
+            "diagnosis": "Psoriasis",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 35,
+            "doctor_id": 1,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 237,
+            "doctor_id": 2,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 191,
+            "doctor_id": 2,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 270,
+            "doctor_id": 6,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 180,
+            "doctor_id": 2,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 242,
+            "doctor_id": 4,
+            "diagnosis": "Asthma",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 75,
+            "doctor_id": 2,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 107,
+            "doctor_id": 4,
+            "diagnosis": "Arthritis",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 31,
+            "doctor_id": 4,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 174,
+            "doctor_id": 6,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 180,
+            "doctor_id": 2,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 285,
+            "doctor_id": 5,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 260,
+            "doctor_id": 5,
+            "diagnosis": "Allergic Rhinitis",
+            "treatment": "Bronchodilators, regular pulmonary checkups",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 4,
+            "doctor_id": 4,
+            "diagnosis": "Hypertension",
+            "treatment": "Levothyroxine 50mcg daily, regular TSH checks",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 101,
+            "doctor_id": 4,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 109,
+            "doctor_id": 1,
+            "diagnosis": "Arthritis",
+            "treatment": "Topical corticosteroids, UV light therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 30,
+            "doctor_id": 1,
+            "diagnosis": "Migraine",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 94,
+            "doctor_id": 1,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 95,
+            "doctor_id": 5,
+            "diagnosis": "Hypertension",
+            "treatment": "Sumatriptan as needed, stress management",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 266,
+            "doctor_id": 4,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 126,
+            "doctor_id": 4,
+            "diagnosis": "Migraine",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 104,
+            "doctor_id": 4,
+            "diagnosis": "Arthritis",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 216,
+            "doctor_id": 5,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 46,
+            "doctor_id": 6,
+            "diagnosis": "Epilepsy",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 191,
+            "doctor_id": 3,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 152,
+            "doctor_id": 2,
+            "diagnosis": "Depression",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 203,
+            "doctor_id": 4,
+            "diagnosis": "Asthma",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 254,
+            "doctor_id": 2,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Albuterol Inhaler as needed, avoid allergens",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 203,
+            "doctor_id": 2,
+            "diagnosis": "Migraine",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 136,
+            "doctor_id": 3,
+            "diagnosis": "Type 2 Diabetes",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 106,
+            "doctor_id": 5,
+            "diagnosis": "Hypertension",
+            "treatment": "Antihistamines, nasal sprays, avoid triggers",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 207,
+            "doctor_id": 6,
+            "diagnosis": "Depression",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 261,
+            "doctor_id": 2,
+            "diagnosis": "Chronic Bronchitis",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 7,
+            "doctor_id": 3,
+            "diagnosis": "Gastroesophageal Reflux Disease",
+            "treatment": "Lisinopril 10mg daily, low sodium diet",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 61,
+            "doctor_id": 3,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Sertraline 50mg daily, psychotherapy sessions",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 76,
+            "doctor_id": 2,
+            "diagnosis": "Depression",
+            "treatment": "Calcium supplements, weight-bearing exercise",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 129,
+            "doctor_id": 4,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Metformin 500mg daily, diet control, regular exercise",
+            "status": "OPEN"
+        },
+        {
+            "patient_id": 50,
+            "doctor_id": 4,
+            "diagnosis": "Depression",
+            "treatment": "Anti-epileptic medications, regular EEG monitoring",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 104,
+            "doctor_id": 6,
+            "diagnosis": "Asthma",
+            "treatment": "Statins, dietary modifications",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 151,
+            "doctor_id": 6,
+            "diagnosis": "Coronary Artery Disease",
+            "treatment": "Ibuprofen 400mg as needed, physical therapy",
+            "status": "CLOSED"
+        },
+        {
+            "patient_id": 224,
+            "doctor_id": 2,
+            "diagnosis": "Osteoporosis",
+            "treatment": "Omeprazole 20mg daily, avoid spicy foods",
+            "status": "FOLLOW_UP"
+        },
+        {
+            "patient_id": 1,
+            "doctor_id": 5,
+            "diagnosis": "Hypothyroidism",
+            "treatment": "Aspirin 75mg daily, lifestyle changes",
+            "status": "OPEN"
+        }
+    ]
+}

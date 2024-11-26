@@ -1,0 +1,1204 @@
+{
+    "records": [
+        {
+            "patient_id": 206,
+            "total_cost": 199.67
+        },
+        {
+            "patient_id": 221,
+            "total_cost": 189.45
+        },
+        {
+            "patient_id": 252,
+            "total_cost": 265.67
+        },
+        {
+            "patient_id": 188,
+            "total_cost": 341.55
+        },
+        {
+            "patient_id": 51,
+            "total_cost": 460.27
+        },
+        {
+            "patient_id": 159,
+            "total_cost": 237.96
+        },
+        {
+            "patient_id": 55,
+            "total_cost": 230.79
+        },
+        {
+            "patient_id": 146,
+            "total_cost": 416.56
+        },
+        {
+            "patient_id": 299,
+            "total_cost": 255.96
+        },
+        {
+            "patient_id": 61,
+            "total_cost": 491.8
+        },
+        {
+            "patient_id": 69,
+            "total_cost": 71.84
+        },
+        {
+            "patient_id": 220,
+            "total_cost": 244.17
+        },
+        {
+            "patient_id": 50,
+            "total_cost": 397.88
+        },
+        {
+            "patient_id": 179,
+            "total_cost": 283.69
+        },
+        {
+            "patient_id": 44,
+            "total_cost": 137.62
+        },
+        {
+            "patient_id": 52,
+            "total_cost": 225.01
+        },
+        {
+            "patient_id": 89,
+            "total_cost": 276.31
+        },
+        {
+            "patient_id": 288,
+            "total_cost": 395.82
+        },
+        {
+            "patient_id": 52,
+            "total_cost": 185.75
+        },
+        {
+            "patient_id": 123,
+            "total_cost": 424.99
+        },
+        {
+            "patient_id": 116,
+            "total_cost": 305.31
+        },
+        {
+            "patient_id": 237,
+            "total_cost": 72.79
+        },
+        {
+            "patient_id": 267,
+            "total_cost": 151.87
+        },
+        {
+            "patient_id": 216,
+            "total_cost": 383.9
+        },
+        {
+            "patient_id": 108,
+            "total_cost": 406.33
+        },
+        {
+            "patient_id": 129,
+            "total_cost": 496.27
+        },
+        {
+            "patient_id": 136,
+            "total_cost": 231.07
+        },
+        {
+            "patient_id": 117,
+            "total_cost": 134.83
+        },
+        {
+            "patient_id": 17,
+            "total_cost": 154.37
+        },
+        {
+            "patient_id": 97,
+            "total_cost": 151.31
+        },
+        {
+            "patient_id": 255,
+            "total_cost": 356.81
+        },
+        {
+            "patient_id": 92,
+            "total_cost": 282.74
+        },
+        {
+            "patient_id": 156,
+            "total_cost": 369.22
+        },
+        {
+            "patient_id": 43,
+            "total_cost": 451.91
+        },
+        {
+            "patient_id": 293,
+            "total_cost": 446.22
+        },
+        {
+            "patient_id": 154,
+            "total_cost": 78.79
+        },
+        {
+            "patient_id": 142,
+            "total_cost": 320.7
+        },
+        {
+            "patient_id": 76,
+            "total_cost": 449.41
+        },
+        {
+            "patient_id": 291,
+            "total_cost": 215.18
+        },
+        {
+            "patient_id": 77,
+            "total_cost": 269.66
+        },
+        {
+            "patient_id": 162,
+            "total_cost": 363.91
+        },
+        {
+            "patient_id": 31,
+            "total_cost": 267.22
+        },
+        {
+            "patient_id": 234,
+            "total_cost": 384.56
+        },
+        {
+            "patient_id": 12,
+            "total_cost": 248.31
+        },
+        {
+            "patient_id": 57,
+            "total_cost": 470.87
+        },
+        {
+            "patient_id": 3,
+            "total_cost": 147.5
+        },
+        {
+            "patient_id": 39,
+            "total_cost": 190.42
+        },
+        {
+            "patient_id": 15,
+            "total_cost": 490.12
+        },
+        {
+            "patient_id": 87,
+            "total_cost": 312.09
+        },
+        {
+            "patient_id": 13,
+            "total_cost": 359.02
+        },
+        {
+            "patient_id": 14,
+            "total_cost": 111.94
+        },
+        {
+            "patient_id": 187,
+            "total_cost": 458.45
+        },
+        {
+            "patient_id": 72,
+            "total_cost": 191.14
+        },
+        {
+            "patient_id": 262,
+            "total_cost": 224.66
+        },
+        {
+            "patient_id": 230,
+            "total_cost": 73.5
+        },
+        {
+            "patient_id": 5,
+            "total_cost": 154.98
+        },
+        {
+            "patient_id": 116,
+            "total_cost": 286.97
+        },
+        {
+            "patient_id": 148,
+            "total_cost": 83.33
+        },
+        {
+            "patient_id": 94,
+            "total_cost": 388.78
+        },
+        {
+            "patient_id": 176,
+            "total_cost": 98.26
+        },
+        {
+            "patient_id": 252,
+            "total_cost": 368.72
+        },
+        {
+            "patient_id": 170,
+            "total_cost": 179.25
+        },
+        {
+            "patient_id": 81,
+            "total_cost": 116.32
+        },
+        {
+            "patient_id": 26,
+            "total_cost": 348.88
+        },
+        {
+            "patient_id": 69,
+            "total_cost": 207.11
+        },
+        {
+            "patient_id": 213,
+            "total_cost": 361.58
+        },
+        {
+            "patient_id": 267,
+            "total_cost": 432.08
+        },
+        {
+            "patient_id": 137,
+            "total_cost": 301.59
+        },
+        {
+            "patient_id": 299,
+            "total_cost": 374.07
+        },
+        {
+            "patient_id": 40,
+            "total_cost": 285.65
+        },
+        {
+            "patient_id": 223,
+            "total_cost": 298.58
+        },
+        {
+            "patient_id": 165,
+            "total_cost": 276.4
+        },
+        {
+            "patient_id": 225,
+            "total_cost": 225.72
+        },
+        {
+            "patient_id": 268,
+            "total_cost": 329.28
+        },
+        {
+            "patient_id": 33,
+            "total_cost": 384.63
+        },
+        {
+            "patient_id": 89,
+            "total_cost": 445.25
+        },
+        {
+            "patient_id": 181,
+            "total_cost": 176.95
+        },
+        {
+            "patient_id": 255,
+            "total_cost": 311.19
+        },
+        {
+            "patient_id": 219,
+            "total_cost": 440.53
+        },
+        {
+            "patient_id": 140,
+            "total_cost": 335.91
+        },
+        {
+            "patient_id": 272,
+            "total_cost": 386.63
+        },
+        {
+            "patient_id": 90,
+            "total_cost": 416.59
+        },
+        {
+            "patient_id": 239,
+            "total_cost": 178.7
+        },
+        {
+            "patient_id": 193,
+            "total_cost": 409.98
+        },
+        {
+            "patient_id": 146,
+            "total_cost": 69.27
+        },
+        {
+            "patient_id": 62,
+            "total_cost": 430.43
+        },
+        {
+            "patient_id": 102,
+            "total_cost": 471.81
+        },
+        {
+            "patient_id": 92,
+            "total_cost": 476.81
+        },
+        {
+            "patient_id": 52,
+            "total_cost": 364.38
+        },
+        {
+            "patient_id": 114,
+            "total_cost": 144.01
+        },
+        {
+            "patient_id": 210,
+            "total_cost": 207.95
+        },
+        {
+            "patient_id": 287,
+            "total_cost": 169.63
+        },
+        {
+            "patient_id": 225,
+            "total_cost": 413.28
+        },
+        {
+            "patient_id": 116,
+            "total_cost": 297.38
+        },
+        {
+            "patient_id": 121,
+            "total_cost": 243.54
+        },
+        {
+            "patient_id": 16,
+            "total_cost": 223.7
+        },
+        {
+            "patient_id": 276,
+            "total_cost": 97.45
+        },
+        {
+            "patient_id": 256,
+            "total_cost": 375.68
+        },
+        {
+            "patient_id": 121,
+            "total_cost": 175.48
+        },
+        {
+            "patient_id": 74,
+            "total_cost": 221.87
+        },
+        {
+            "patient_id": 55,
+            "total_cost": 454.75
+        },
+        {
+            "patient_id": 181,
+            "total_cost": 444.34
+        },
+        {
+            "patient_id": 216,
+            "total_cost": 272.32
+        },
+        {
+            "patient_id": 50,
+            "total_cost": 314.28
+        },
+        {
+            "patient_id": 200,
+            "total_cost": 327.97
+        },
+        {
+            "patient_id": 37,
+            "total_cost": 245.38
+        },
+        {
+            "patient_id": 135,
+            "total_cost": 421.72
+        },
+        {
+            "patient_id": 157,
+            "total_cost": 442.23
+        },
+        {
+            "patient_id": 88,
+            "total_cost": 115.71
+        },
+        {
+            "patient_id": 239,
+            "total_cost": 348.45
+        },
+        {
+            "patient_id": 217,
+            "total_cost": 395.66
+        },
+        {
+            "patient_id": 59,
+            "total_cost": 52.16
+        },
+        {
+            "patient_id": 64,
+            "total_cost": 408.82
+        },
+        {
+            "patient_id": 94,
+            "total_cost": 146.18
+        },
+        {
+            "patient_id": 227,
+            "total_cost": 432.92
+        },
+        {
+            "patient_id": 103,
+            "total_cost": 295.2
+        },
+        {
+            "patient_id": 81,
+            "total_cost": 162.0
+        },
+        {
+            "patient_id": 272,
+            "total_cost": 262.12
+        },
+        {
+            "patient_id": 52,
+            "total_cost": 60.69
+        },
+        {
+            "patient_id": 256,
+            "total_cost": 327.74
+        },
+        {
+            "patient_id": 69,
+            "total_cost": 186.4
+        },
+        {
+            "patient_id": 176,
+            "total_cost": 382.16
+        },
+        {
+            "patient_id": 200,
+            "total_cost": 119.68
+        },
+        {
+            "patient_id": 181,
+            "total_cost": 228.16
+        },
+        {
+            "patient_id": 92,
+            "total_cost": 275.42
+        },
+        {
+            "patient_id": 216,
+            "total_cost": 185.37
+        },
+        {
+            "patient_id": 199,
+            "total_cost": 98.49
+        },
+        {
+            "patient_id": 153,
+            "total_cost": 246.68
+        },
+        {
+            "patient_id": 21,
+            "total_cost": 304.57
+        },
+        {
+            "patient_id": 241,
+            "total_cost": 489.39
+        },
+        {
+            "patient_id": 6,
+            "total_cost": 110.27
+        },
+        {
+            "patient_id": 117,
+            "total_cost": 159.74
+        },
+        {
+            "patient_id": 45,
+            "total_cost": 481.77
+        },
+        {
+            "patient_id": 190,
+            "total_cost": 191.26
+        },
+        {
+            "patient_id": 21,
+            "total_cost": 326.61
+        },
+        {
+            "patient_id": 226,
+            "total_cost": 233.5
+        },
+        {
+            "patient_id": 165,
+            "total_cost": 344.88
+        },
+        {
+            "patient_id": 7,
+            "total_cost": 274.62
+        },
+        {
+            "patient_id": 17,
+            "total_cost": 162.09
+        },
+        {
+            "patient_id": 176,
+            "total_cost": 280.48
+        },
+        {
+            "patient_id": 130,
+            "total_cost": 424.99
+        },
+        {
+            "patient_id": 224,
+            "total_cost": 369.12
+        },
+        {
+            "patient_id": 264,
+            "total_cost": 465.25
+        },
+        {
+            "patient_id": 271,
+            "total_cost": 69.14
+        },
+        {
+            "patient_id": 246,
+            "total_cost": 104.88
+        },
+        {
+            "patient_id": 259,
+            "total_cost": 169.54
+        },
+        {
+            "patient_id": 293,
+            "total_cost": 166.68
+        },
+        {
+            "patient_id": 172,
+            "total_cost": 383.57
+        },
+        {
+            "patient_id": 225,
+            "total_cost": 118.09
+        },
+        {
+            "patient_id": 95,
+            "total_cost": 240.34
+        },
+        {
+            "patient_id": 157,
+            "total_cost": 470.96
+        },
+        {
+            "patient_id": 206,
+            "total_cost": 379.8
+        },
+        {
+            "patient_id": 43,
+            "total_cost": 263.6
+        },
+        {
+            "patient_id": 51,
+            "total_cost": 472.2
+        },
+        {
+            "patient_id": 54,
+            "total_cost": 119.83
+        },
+        {
+            "patient_id": 9,
+            "total_cost": 59.9
+        },
+        {
+            "patient_id": 292,
+            "total_cost": 109.3
+        },
+        {
+            "patient_id": 85,
+            "total_cost": 230.16
+        },
+        {
+            "patient_id": 141,
+            "total_cost": 339.65
+        },
+        {
+            "patient_id": 24,
+            "total_cost": 142.29
+        },
+        {
+            "patient_id": 277,
+            "total_cost": 132.05
+        },
+        {
+            "patient_id": 12,
+            "total_cost": 437.85
+        },
+        {
+            "patient_id": 300,
+            "total_cost": 248.97
+        },
+        {
+            "patient_id": 3,
+            "total_cost": 173.73
+        },
+        {
+            "patient_id": 232,
+            "total_cost": 156.04
+        },
+        {
+            "patient_id": 118,
+            "total_cost": 115.84
+        },
+        {
+            "patient_id": 183,
+            "total_cost": 332.78
+        },
+        {
+            "patient_id": 263,
+            "total_cost": 361.32
+        },
+        {
+            "patient_id": 264,
+            "total_cost": 262.37
+        },
+        {
+            "patient_id": 248,
+            "total_cost": 204.29
+        },
+        {
+            "patient_id": 135,
+            "total_cost": 327.42
+        },
+        {
+            "patient_id": 107,
+            "total_cost": 472.13
+        },
+        {
+            "patient_id": 275,
+            "total_cost": 335.04
+        },
+        {
+            "patient_id": 75,
+            "total_cost": 114.75
+        },
+        {
+            "patient_id": 14,
+            "total_cost": 377.15
+        },
+        {
+            "patient_id": 53,
+            "total_cost": 488.82
+        },
+        {
+            "patient_id": 219,
+            "total_cost": 160.22
+        },
+        {
+            "patient_id": 1,
+            "total_cost": 131.98
+        },
+        {
+            "patient_id": 50,
+            "total_cost": 150.04
+        },
+        {
+            "patient_id": 18,
+            "total_cost": 275.0
+        },
+        {
+            "patient_id": 257,
+            "total_cost": 384.67
+        },
+        {
+            "patient_id": 53,
+            "total_cost": 56.06
+        },
+        {
+            "patient_id": 175,
+            "total_cost": 71.99
+        },
+        {
+            "patient_id": 83,
+            "total_cost": 207.63
+        },
+        {
+            "patient_id": 152,
+            "total_cost": 420.84
+        },
+        {
+            "patient_id": 18,
+            "total_cost": 149.39
+        },
+        {
+            "patient_id": 77,
+            "total_cost": 386.25
+        },
+        {
+            "patient_id": 97,
+            "total_cost": 308.88
+        },
+        {
+            "patient_id": 216,
+            "total_cost": 315.29
+        },
+        {
+            "patient_id": 249,
+            "total_cost": 428.98
+        },
+        {
+            "patient_id": 279,
+            "total_cost": 497.14
+        },
+        {
+            "patient_id": 75,
+            "total_cost": 222.08
+        },
+        {
+            "patient_id": 43,
+            "total_cost": 460.25
+        },
+        {
+            "patient_id": 104,
+            "total_cost": 122.58
+        },
+        {
+            "patient_id": 195,
+            "total_cost": 386.74
+        },
+        {
+            "patient_id": 137,
+            "total_cost": 117.89
+        },
+        {
+            "patient_id": 70,
+            "total_cost": 123.36
+        },
+        {
+            "patient_id": 60,
+            "total_cost": 125.1
+        },
+        {
+            "patient_id": 171,
+            "total_cost": 279.28
+        },
+        {
+            "patient_id": 40,
+            "total_cost": 258.54
+        },
+        {
+            "patient_id": 119,
+            "total_cost": 55.0
+        },
+        {
+            "patient_id": 159,
+            "total_cost": 429.57
+        },
+        {
+            "patient_id": 255,
+            "total_cost": 114.24
+        },
+        {
+            "patient_id": 292,
+            "total_cost": 204.32
+        },
+        {
+            "patient_id": 253,
+            "total_cost": 102.89
+        },
+        {
+            "patient_id": 189,
+            "total_cost": 207.98
+        },
+        {
+            "patient_id": 237,
+            "total_cost": 187.17
+        },
+        {
+            "patient_id": 268,
+            "total_cost": 379.38
+        },
+        {
+            "patient_id": 58,
+            "total_cost": 256.42
+        },
+        {
+            "patient_id": 40,
+            "total_cost": 368.33
+        },
+        {
+            "patient_id": 144,
+            "total_cost": 256.46
+        },
+        {
+            "patient_id": 86,
+            "total_cost": 414.49
+        },
+        {
+            "patient_id": 170,
+            "total_cost": 266.86
+        },
+        {
+            "patient_id": 121,
+            "total_cost": 384.32
+        },
+        {
+            "patient_id": 190,
+            "total_cost": 290.06
+        },
+        {
+            "patient_id": 160,
+            "total_cost": 186.53
+        },
+        {
+            "patient_id": 68,
+            "total_cost": 73.19
+        },
+        {
+            "patient_id": 297,
+            "total_cost": 468.0
+        },
+        {
+            "patient_id": 230,
+            "total_cost": 392.8
+        },
+        {
+            "patient_id": 48,
+            "total_cost": 379.24
+        },
+        {
+            "patient_id": 290,
+            "total_cost": 79.07
+        },
+        {
+            "patient_id": 260,
+            "total_cost": 222.03
+        },
+        {
+            "patient_id": 71,
+            "total_cost": 330.67
+        },
+        {
+            "patient_id": 274,
+            "total_cost": 202.29
+        },
+        {
+            "patient_id": 200,
+            "total_cost": 182.84
+        },
+        {
+            "patient_id": 28,
+            "total_cost": 279.41
+        },
+        {
+            "patient_id": 295,
+            "total_cost": 73.36
+        },
+        {
+            "patient_id": 228,
+            "total_cost": 422.36
+        },
+        {
+            "patient_id": 160,
+            "total_cost": 143.68
+        },
+        {
+            "patient_id": 203,
+            "total_cost": 361.31
+        },
+        {
+            "patient_id": 93,
+            "total_cost": 493.37
+        },
+        {
+            "patient_id": 271,
+            "total_cost": 389.69
+        },
+        {
+            "patient_id": 55,
+            "total_cost": 451.42
+        },
+        {
+            "patient_id": 240,
+            "total_cost": 59.23
+        },
+        {
+            "patient_id": 25,
+            "total_cost": 483.27
+        },
+        {
+            "patient_id": 53,
+            "total_cost": 82.45
+        },
+        {
+            "patient_id": 81,
+            "total_cost": 361.27
+        },
+        {
+            "patient_id": 136,
+            "total_cost": 243.96
+        },
+        {
+            "patient_id": 55,
+            "total_cost": 177.02
+        },
+        {
+            "patient_id": 195,
+            "total_cost": 188.08
+        },
+        {
+            "patient_id": 141,
+            "total_cost": 96.05
+        },
+        {
+            "patient_id": 260,
+            "total_cost": 340.28
+        },
+        {
+            "patient_id": 291,
+            "total_cost": 267.51
+        },
+        {
+            "patient_id": 175,
+            "total_cost": 145.88
+        },
+        {
+            "patient_id": 265,
+            "total_cost": 230.58
+        },
+        {
+            "patient_id": 231,
+            "total_cost": 353.09
+        },
+        {
+            "patient_id": 118,
+            "total_cost": 451.1
+        },
+        {
+            "patient_id": 103,
+            "total_cost": 259.39
+        },
+        {
+            "patient_id": 243,
+            "total_cost": 448.01
+        },
+        {
+            "patient_id": 113,
+            "total_cost": 300.05
+        },
+        {
+            "patient_id": 157,
+            "total_cost": 72.2
+        },
+        {
+            "patient_id": 139,
+            "total_cost": 350.09
+        },
+        {
+            "patient_id": 150,
+            "total_cost": 332.56
+        },
+        {
+            "patient_id": 14,
+            "total_cost": 446.95
+        },
+        {
+            "patient_id": 172,
+            "total_cost": 158.69
+        },
+        {
+            "patient_id": 18,
+            "total_cost": 313.36
+        },
+        {
+            "patient_id": 223,
+            "total_cost": 116.88
+        },
+        {
+            "patient_id": 212,
+            "total_cost": 316.04
+        },
+        {
+            "patient_id": 193,
+            "total_cost": 471.84
+        },
+        {
+            "patient_id": 231,
+            "total_cost": 206.97
+        },
+        {
+            "patient_id": 61,
+            "total_cost": 229.46
+        },
+        {
+            "patient_id": 95,
+            "total_cost": 379.64
+        },
+        {
+            "patient_id": 194,
+            "total_cost": 161.16
+        },
+        {
+            "patient_id": 15,
+            "total_cost": 391.49
+        },
+        {
+            "patient_id": 149,
+            "total_cost": 301.63
+        },
+        {
+            "patient_id": 205,
+            "total_cost": 240.76
+        },
+        {
+            "patient_id": 94,
+            "total_cost": 458.42
+        },
+        {
+            "patient_id": 147,
+            "total_cost": 446.42
+        },
+        {
+            "patient_id": 199,
+            "total_cost": 455.9
+        },
+        {
+            "patient_id": 282,
+            "total_cost": 152.7
+        },
+        {
+            "patient_id": 119,
+            "total_cost": 467.11
+        },
+        {
+            "patient_id": 122,
+            "total_cost": 462.29
+        },
+        {
+            "patient_id": 281,
+            "total_cost": 356.06
+        },
+        {
+            "patient_id": 233,
+            "total_cost": 461.12
+        },
+        {
+            "patient_id": 250,
+            "total_cost": 250.85
+        },
+        {
+            "patient_id": 34,
+            "total_cost": 454.74
+        },
+        {
+            "patient_id": 44,
+            "total_cost": 219.02
+        },
+        {
+            "patient_id": 292,
+            "total_cost": 257.49
+        },
+        {
+            "patient_id": 251,
+            "total_cost": 319.57
+        },
+        {
+            "patient_id": 209,
+            "total_cost": 116.31
+        },
+        {
+            "patient_id": 241,
+            "total_cost": 56.97
+        },
+        {
+            "patient_id": 14,
+            "total_cost": 237.57
+        },
+        {
+            "patient_id": 24,
+            "total_cost": 204.66
+        },
+        {
+            "patient_id": 68,
+            "total_cost": 337.35
+        },
+        {
+            "patient_id": 117,
+            "total_cost": 460.14
+        },
+        {
+            "patient_id": 134,
+            "total_cost": 95.51
+        },
+        {
+            "patient_id": 91,
+            "total_cost": 471.71
+        },
+        {
+            "patient_id": 224,
+            "total_cost": 109.0
+        },
+        {
+            "patient_id": 297,
+            "total_cost": 170.8
+        },
+        {
+            "patient_id": 101,
+            "total_cost": 299.57
+        },
+        {
+            "patient_id": 137,
+            "total_cost": 211.41
+        },
+        {
+            "patient_id": 290,
+            "total_cost": 186.35
+        },
+        {
+            "patient_id": 291,
+            "total_cost": 462.28
+        },
+        {
+            "patient_id": 209,
+            "total_cost": 354.88
+        },
+        {
+            "patient_id": 295,
+            "total_cost": 162.86
+        },
+        {
+            "patient_id": 188,
+            "total_cost": 152.89
+        },
+        {
+            "patient_id": 165,
+            "total_cost": 178.64
+        },
+        {
+            "patient_id": 32,
+            "total_cost": 492.45
+        },
+        {
+            "patient_id": 83,
+            "total_cost": 67.64
+        },
+        {
+            "patient_id": 132,
+            "total_cost": 162.77
+        }
+    ]
+}

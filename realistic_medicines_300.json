@@ -1,0 +1,1204 @@
+{
+    "medicines": [
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 612
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 1571
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 414
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 1605
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 604
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 1664
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 179
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1094
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 541
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 472
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 563
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 934
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1058
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 1822
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 1293
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 650
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1051
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 649
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 1577
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 289
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 612
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 1294
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 1320
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 1442
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 312
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 89
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 491
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 1025
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 227
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 360
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1872
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 1550
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 532
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1691
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 852
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 705
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1319
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 1999
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1387
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 638
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 1028
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1040
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 488
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 472
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 734
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 818
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1439
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 626
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 1434
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 167
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 597
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 1273
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 505
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 1984
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 1600
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 1146
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 1161
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 508
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 1817
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 1002
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1677
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 226
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 1312
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 1790
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1853
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 843
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 971
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 476
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 1474
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 1322
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 398
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 62
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 131
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 1500
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1433
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 395
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 596
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 274
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 1228
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 1327
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 1771
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 752
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 477
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 361
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 174
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 734
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1659
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 1872
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 837
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 917
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 963
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 724
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 804
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 551
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 1584
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 502
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 1569
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 1409
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 1154
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 1257
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 616
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 386
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 584
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 333
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 1830
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 245
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1962
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 1431
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 1285
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 425
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 1237
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1157
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 344
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 1299
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 1964
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 1292
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 1323
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 1853
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 386
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 948
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 71
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 1346
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 752
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1507
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 470
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1367
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 1907
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 838
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 1407
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 675
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 881
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 1836
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 678
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 436
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 357
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1073
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 1629
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 851
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 1728
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 1150
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1938
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 115
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 1079
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 772
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 1048
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 1263
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 608
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 1714
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1833
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 777
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 875
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 747
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 57
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 836
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 611
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 578
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1701
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 178
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1415
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 952
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 637
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 620
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 1459
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1806
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 342
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 932
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 1456
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 1618
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 1884
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 1472
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 1938
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 383
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 750
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1747
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 173
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1762
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 1787
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 1388
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 656
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 496
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 193
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 334
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 460
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 1835
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 219
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 1562
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 1854
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 1185
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 899
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 88
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1363
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 190
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 106
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 767
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 554
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1991
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 394
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 98
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 979
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 465
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 641
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 1409
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1840
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 988
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 1481
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 82
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 984
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1630
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 1210
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 1704
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 322
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 332
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 520
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 460
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 1248
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 1177
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 657
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 1166
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 1409
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 791
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1225
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 1209
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 441
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 205
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 1992
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 686
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 514
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 1978
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 1336
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 1199
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1853
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 1548
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1456
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 579
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 793
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1506
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 684
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 1041
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 1488
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 1218
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 1677
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 143
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 1994
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 1556
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 581
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1001
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 365
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 2000
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 1902
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1942
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 543
+        },
+        {
+            "name": "Levothyroxine 50mcg",
+            "quantity": 656
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1071
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 1047
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 383
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 498
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 1875
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 887
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 649
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 1648
+        },
+        {
+            "name": "Metformin 500mg",
+            "quantity": 1600
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 65
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 1539
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 831
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 490
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 433
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 891
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1766
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 412
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 837
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 498
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 925
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 1738
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1583
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 176
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 1406
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 1152
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 97
+        },
+        {
+            "name": "Lisinopril 10mg",
+            "quantity": 1618
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 826
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 472
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 1974
+        },
+        {
+            "name": "Losartan 50mg",
+            "quantity": 510
+        },
+        {
+            "name": "Omeprazole 20mg",
+            "quantity": 324
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 1606
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 1478
+        },
+        {
+            "name": "Sertraline 50mg",
+            "quantity": 855
+        },
+        {
+            "name": "Atorvastatin 20mg",
+            "quantity": 492
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 760
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1332
+        },
+        {
+            "name": "Alprazolam 0.5mg",
+            "quantity": 1849
+        },
+        {
+            "name": "Ibuprofen 200mg",
+            "quantity": 513
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 1665
+        },
+        {
+            "name": "Clopidogrel 75mg",
+            "quantity": 1531
+        },
+        {
+            "name": "Warfarin 5mg",
+            "quantity": 1944
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 364
+        },
+        {
+            "name": "Amoxicillin 500mg",
+            "quantity": 162
+        },
+        {
+            "name": "Salbutamol Inhaler",
+            "quantity": 1298
+        },
+        {
+            "name": "Paracetamol 500mg",
+            "quantity": 636
+        },
+        {
+            "name": "Ciprofloxacin 500mg",
+            "quantity": 1838
+        }
+    ]
+}
